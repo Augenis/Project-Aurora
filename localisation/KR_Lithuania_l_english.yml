@@ -45,6 +45,8 @@ LIT_paternal_autocrat_party:0 "Supporters of K. V. Tiškevičius"
 LIT_paternal_autocrat_party_long:0 "Supporters of Kazimieras Viktoras Tiškevičius"
 LIT_national_populist_party:0 "LTIP (Speak Lithuanian)"
 LIT_national_populist_party_long:0 "Lietuvių tautos interesų partija"
+LIT_alliance_for_liberation:0 "IšAl"
+LIT_alliance_for_liberation_long:0 "Alliance for Liberation"
 
 ### Focuses ###
 LIT_black_monday_hit:0 "Aftermath of the Black Monday"
@@ -319,3 +321,31 @@ lithuania.27.a:0 "A new page in our history!"
 lithuania.28.t:0 "Germany has declined"
 lithuania.28.d:0 "Even though both the United Baltic Duchy and Lithuania were in favour of the proposal to unite the two states into one, the Kaiser has said his final word on the matter - and it was no. There will be no Baltic unification. At least not within our lifetimes."
 lithuania.28.a:0 "Sad!"
+
+lithuania.29.t:0 "A Dark Omen"
+lithuania.29.d:0 "Vyacheslav Vladimirovich was a simple man. Even though his family comes from Russian colonists who arrived here in the late 19th century, he considers himself to be a Lithuanian, even if he speaks Russian and pledges loyalty to Russia. But times have changed. Our new government is openly against Slavs, be it Russians, Poles and Belarusians, and the Iron Wolf brigades have already attacked his peacheful home on the outskirts of Vilnius. Despite loving his homeland, Vyacheslav was forced to emigrate, leave the nation and settle in Dvinsk. Yet another fleeing soul. \n\nWhile some people like Vyacheslav protested the new government with their feet, others are taking a far more active stance. Russian, Polish and Belarusian minorities are openly protesting the Vadas's government, urging for action against discrimination. They might be organizing into a movement, despite our fierce opposition to that..."
+lithuania.29.a:0 "Lithuania is for Lithuanians!"
+
+lithuania.30.t:0 "The Alliance for Liberation"
+lithuania.30.d:0 "Representatives from Russian, Polish and Belarusian minorities, as well as many Lithuanian opposition politicians, have organized an underground assebly of the so-called 'Alliance for Liberation', a movement directed against our rule, calling for a fair treatment of the Slavic minorities. The STT has enough proof, however, that this is merely a lie, and the organization is planning an armed pro-Russian rebellion against the state. The Alliance is unorganized and lacks a leader, but that might change soon."
+lithuania.30.a:0 "We'll keep an eye on this treachery."
+
+lithuania.31.t:0 "The Silver Knight"
+lithuania.31.d:0 "Kazimieras Viktoras Tiškevičius, a Polish-Lithuanian noble from Kretinga, has risen to become the new leader of the pro-Slavic Alliance for Liberation. A descendant of the original House of Gediminas that ruled the Grand Duchy in medieval times, Tiškevičius is opposed to the Republic that we have founded and wishes to see a restoration of a monarchy - with him as the monarch, of course. The noble has turned the organization into a vehicle for his underground campaign, and he has even gone so far as to begin requesting help from the Russians. He is aware that he cannot win on his own..."
+lithuania.31.a:0 "He's just a lost romantic. It'll blow away."
+lithuania.31.b:0 "This has gone too far! Arrest the traitor immediately!"
+
+lithuania.32.t:0 "The Silver Knight"
+lithuania.32.d:0 "An interesting person has arrived to the Duma today. Kazimieras Viktoras Tiškevičius, a Polish-Lithuanian noble from Kretinga and the leader of the pro-Russian 'Alliance for Liberation' in Lithuania, he has arrived to request our help in his campaign. Tiškevičius believes that the only path for his party is to execute a coup and cut off the hydra that is the Lithuanian national-populists, and he even swears that he will align the restored monarchy to our interests should he be successful. But many do not believe his story. How should we respond?"
+lithuania.32.a:0 "Boy, we'll give you all we need, do the dirty work for us!"
+lithuania.32.b:0 "We're fine with Voldemaras in Lithuania, thanks."
+
+lithuania.33.t:0 "Russophile Coup!"
+lithuania.33.d:0 "Kazimieras Viktoras Tiškevičius has raised the Alliance for Liberation for a march to Vilnius! His masses are bolstered by what seems to be supporting Russian soldiers - the bastard went to Russia and acquired their support in this endeavor! Traitor! Or maybe our next leader... \s\sThe Alliance for Liberation seeks to restore the Grand Duchy of Lithuania of old, and they are opposed by regular military units in the capital as well as Iron Wolf brigades. This is a battle for the history books..."
+lithuania.33.a:0 "Long live the new Grand Duke!"
+lithuania.33.b:0 "Iron Wolf militias defend the capital!"
+
+lithuania.34.t:0 "Coup in Lithuania successful!"
+lithuania.34.d:0 "The Alliance for Liberation was successful! Kazimieras II Tiškevičius now reigns as the new monarch of Lithuania. And as expected, he is ready to pay lip service to us. A new puppet state has joined the Russian sphere of influence."
+lithuania.34.a:0 "Ura!"
+
